@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @osakaruhub
 - 👀 I’m interested in programming big projects
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and HTML/CSS
 - 📫 How to reach me Masterofbtd5#4787
 
 <!---
