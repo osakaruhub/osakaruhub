@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @osakaruhub
 - 👀 I’m interested in programming big projects
-- 🌱 I’m currently learning Java and HTML/CSS
-- 📫 How to reach me Masterofbtd5#4787
+- 🌱 I’m currently learning Java ♨️ and Rust 🦀
+- 📫 How to reach me:
+  -  Discord: Masterofbtd5#4787
+  -  Mail: Stuewe.Oskar@gmail.com
 
 <!---
 osakaruhub/osakaruhub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
