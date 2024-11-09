@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming big projects
 - 🌱 I’m currently learning Java ♨️ and Rust 🦀
 - 📫 How to reach me:
-  -  Discord: Masterofbtd5#4787
+  -  Discord: [Masterofbtd5#4787](https://discord.com/users/474559775863209994)
   -  Mail: Stuewe.Oskar@gmail.com
 
 <!---
