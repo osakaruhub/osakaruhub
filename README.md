@@ -5,6 +5,8 @@
   -  Discord: [Masterofbtd5#4787](https://discord.com/users/474559775863209994)
   -  Mail: Stuewe.Oskar@gmail.com
 
+_Testing is doubting yourself_
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=osakaruhub&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ### ✍️ Random Dev Quote
